@@ -10,11 +10,14 @@
   <b>I am a full programmer analyst. Currently I'm working with web and desktop applications.</b>  
 </p>
 
-* Full Stack in Asp.Net Framework | Asp. Net Core
-* Back-end with C#
+* Full stack in Asp.Net Framework | Asp. Net Core
+* Back-end with C# | Entity Framework
 * Database with SQL Server and My SQL
-
-
+* VB 6.0
+* Java | Android
+* HTML
+* CSS
+* JavaScript
 
 <br>
 
